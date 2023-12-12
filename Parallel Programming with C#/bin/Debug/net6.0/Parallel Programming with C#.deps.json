@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Parallel Programming with C#/1.0.0": {
+        "runtime": {
+          "Parallel Programming with C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parallel Programming with C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
